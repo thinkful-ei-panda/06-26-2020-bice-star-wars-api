@@ -1,0 +1,14 @@
+#response-message-container {
+    margin: 10px 17px 10px 17px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.response-message-container-show {
+    display: block;
+}
+
+.response-message-container-hide {
+    display: none;
+}

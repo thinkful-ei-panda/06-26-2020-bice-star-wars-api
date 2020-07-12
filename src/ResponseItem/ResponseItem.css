@@ -1,0 +1,14 @@
+.response-item-container {
+    border-bottom: 2px solid #fff;
+    padding:10px;
+    color:#fff;
+}
+
+.response-item-info-container {
+    display: block;
+}
+
+.response-item-info {
+    display: inline-block;
+    color: #fff;
+}
